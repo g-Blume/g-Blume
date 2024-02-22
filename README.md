@@ -15,7 +15,7 @@ g-Blume</a></h1>
 
 - 🤝 Estou disponível para propostas de emprego na área de Desenvolvedor.
 
-- 🌱 Atualmente estou estudando na Growdev, formação Desenvolvedor Web Full Stack <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">Growdev</a>
+- 🌱 Atualmente estou estudando na Growdev, formação Desenvolvedor Web Full Stack <a href="https://www.growdev.com.br/" target="blank">Growdev</a>
 
 - 📫 Como chegar até mim **gabrielmblume@gmail.com**
 
