@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, I'm <a href="[https://100rabhcsmc.github.io/Me.io/](https://github.com/g-Blume)" target="blank">
+<h1 align="center">Olá 👋, Eu sou o <a href="[https://100rabhcsmc.github.io/Me.io/](https://github.com/g-Blume)" target="blank">
 g-Blume</a></h1>
 <h3 align="center">Futuro Dev Full Stack &#127470;&#127475</h3>
 
@@ -13,9 +13,9 @@ g-Blume</a></h1>
 
 - 🌱 No atual momento estou trabalhando como Almoxarife/Armazenista.
 
-- 🤝 Estou disponível para propostas na área de Dev.
+- 🤝 Estou disponível para propostas de emprego na área de Desenvolvedor.
 
-- 🌱 Atualmente estou estudando na Growdev, formação Desenvolvedor Web Full Stack <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">Home Growdev</a>
+- 🌱 Atualmente estou estudando na Growdev, formação Desenvolvedor Web Full Stack <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">Growdev</a>
 
 - 📫 Como chegar até mim **gabrielmblume@gmail.com**
 
@@ -26,9 +26,9 @@ g-Blume</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="(https://www.linkedin.com/in/gabriel-blume-0a53202b0/)">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/gabriel-blume-0a53202b0/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/g-Blume">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
